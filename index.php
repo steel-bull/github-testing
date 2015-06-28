@@ -1,3 +1,10 @@
 <?php
-    echo "Pokuuuus...";
-    echo "Pokus2...";
+
+class Pokus {
+
+    public function __construct() {
+        echo "Pokuuuus...";
+        echo "Pokus2...";
+    }
+
+}
